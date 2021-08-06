@@ -10,15 +10,17 @@ Check the free memory in your system.
 ## Process check
 Check if process is runing in your system.
 
-- For runing your process, use:
+For runing your process, use:
 
 ```bash
-  bash name.sh
+  bash project-name.sh
 ```
 
 ## Now, create your own scripts for your necessity
 
-Some options and function for use:
+Some options and function for use.
+
+**w o r k**
 
 ## Options for use in numbers
 - **==** or **-eq**: equal;
