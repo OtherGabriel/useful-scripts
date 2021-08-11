@@ -18,6 +18,8 @@ Check if process is runing in your system.
 
 Some options and function for use.
 
+**condicionais**
+
 **if**
 
 ```bash
@@ -42,6 +44,17 @@ case sua-variável
     se-true
   ;;
 esac
+```
+
+**laços de repetição**
+
+**for**
+
+```bash
+for sua-variável in { valor-inicial..valor-final }
+do
+  variável-sendo-iterada
+done
 ```
 
 ### Options for use in numbers
