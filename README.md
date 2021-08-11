@@ -18,13 +18,27 @@ Check if process is runing in your system.
 
 Some options and function for use.
 
-**if**
+**i f**
 
 if [ sua-condição ]
 then
   se-true
 else
   se-false
+
+**c a s e**
+
+case sua-variável
+  caso-um
+    se-true
+  ;;
+  caso-dois
+    se-true
+  ;;
+  caso-tres
+    se-true
+  ;;
+esac
 
 ### Options for use in numbers
 - **==** or **-eq**: equal;
