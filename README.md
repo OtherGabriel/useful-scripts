@@ -18,7 +18,13 @@ Check if process is runing in your system.
 
 Some options and function for use.
 
-**w o r k**
+**if**
+
+if [ sua-condição ]
+then
+  se-true
+else
+  se-false
 
 ### Options for use in numbers
 - **==** or **-eq**: equal;
