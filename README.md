@@ -18,16 +18,19 @@ Check if process is runing in your system.
 
 Some options and function for use.
 
-**i f**
+**if**
 
+```bash
 if [ sua-condição ]
 then
   se-true
 else
   se-false
+```
 
-**c a s e**
+**case**
 
+```bash
 case sua-variável
   caso-um
     se-true
@@ -39,6 +42,7 @@ case sua-variável
     se-true
   ;;
 esac
+```
 
 ### Options for use in numbers
 - **==** or **-eq**: equal;
