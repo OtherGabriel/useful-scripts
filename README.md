@@ -18,42 +18,42 @@ Check if process is runing in your system.
 
 Some options and function for use.
 
-**condicionais**
+**conditionals**
 
 **if**
 
 ```bash
-if [ sua-condição ]
+if [ your-condition ]
 then
-  se-true
+  if-true
 else
-  se-false
+  if-false
 ```
 
 **case**
 
 ```bash
-case sua-variável
-  caso-um
-    se-true
+case your-variable
+  case-one
+    if-true
   ;;
-  caso-dois
-    se-true
+  case-two
+    if-true
   ;;
-  caso-tres
-    se-true
+  case-three
+    if-true
   ;;
 esac
 ```
 
-**laços de repetição**
+**repeating loops**
 
 **for**
 
 ```bash
-for sua-variável in { valor-inicial..valor-final }
+for your-variable in { initial-value .. final-value }
 do
-  variável-sendo-iterada
+  variável sendo iterada
 done
 ```
 
